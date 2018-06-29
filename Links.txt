@@ -1,0 +1,11 @@
+https://libcinder.org/docs/guides/tour/hello_cinder.html
+https://libcinder.org/docs/guides/tour/hello_cinder_chapter1.html
+
+Instructions:
+- Download a release of cinder (most recent ones only support vs2013)
+- Check the test project works
+- Then use tinder box to create applications
+
+Source files:
+- Only include the src directory to save on size
+- maybe the resource folder if it was used at all
