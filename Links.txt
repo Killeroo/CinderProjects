@@ -1,6 +1,9 @@
 https://libcinder.org/docs/guides/tour/hello_cinder.html
 https://libcinder.org/docs/guides/tour/hello_cinder_chapter1.html
 
+https://libcinder.org/docs/guides/flocking/chapter1.html
+https://libcinder.org/docs/guides/tour/hello_cinder_chapter4.html
+
 Instructions:
 - Download a release of cinder (most recent ones only support vs2013)
 - Check the test project works
